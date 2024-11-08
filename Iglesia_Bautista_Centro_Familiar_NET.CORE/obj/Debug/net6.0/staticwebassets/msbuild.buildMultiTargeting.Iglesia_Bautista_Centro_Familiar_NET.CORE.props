@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Iglesia_Bautista_Centro_Familiar_NET.CORE.props" />
+</Project>
